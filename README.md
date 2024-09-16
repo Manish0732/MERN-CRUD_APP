@@ -117,6 +117,6 @@ This project is a CRUD (Create, Read, Update, Delete) application built using No
 - **GET /reset**: Render the reset password page.
 - **POST /reset**: Handle password reset.
 
-###Author
+### Author
 
 - [Manish Joshi](https://github.com/manish0732/)
