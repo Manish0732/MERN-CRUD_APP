@@ -34,8 +34,8 @@ This project is a CRUD (Create, Read, Update, Delete) application built using No
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/crud-auth-app.git
-   cd crud-auth-app
+   git clone https://github.com/manish0732/MERN-CRUD_APP.git
+   cd MERN-CRUD_APP
 
    ```
 
@@ -62,7 +62,8 @@ This project is a CRUD (Create, Read, Update, Delete) application built using No
 5. Run the application:
 
    ```bash
-   npm start
+   cd src
+   node app.js
    ```
 
 6. Open your browser and navigate to 'http://localhost:3005'
